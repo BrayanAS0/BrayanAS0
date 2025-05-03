@@ -1,16 +1,17 @@
-<h1 align="center">Hi there, I'm Brayan 👨‍💻</h1>
+<h1 align="center">👋 Hey, I'm Brayan</h1>
 
 <p align="center">
-  Passionate Full-Stack Developer who loves turning ideas into scalable and user-friendly web applications.
+  🚀 Full-Stack Developer with a passion for building clean, scalable, and efficient web applications.<br/>
+  I enjoy working with both front-end and back-end technologies and turning ideas into code.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Focused on creating modern, performant, and clean code  
-- 🛠️ Currently sharpening my skills in cloud architecture and DevOps  
-- 🤝 Open to collaboration on innovative web or SaaS projects  
+- 💼 Full-Stack Developer with experience in enterprise and personal projects  
+- 🧠 Constantly learning and exploring cloud infrastructure and DevOps practices  
+- 🤝 Always open to collaborating on challenging and creative projects  
 
 ---
 
@@ -18,55 +19,76 @@
 
 <div align="center">
 
-<!-- Backend & Languages -->
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<br/>C#
-
-<img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<br/>ASP.NET Core
-
-<img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<br/>SQL
-
-<!-- Frontend -->
-<br/><br/>
-<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<br/>React
-
-<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<br/>Angular
-
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<br/>JavaScript
-
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br/>TypeScript
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<br/>HTML
-
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<br/>CSS
-
-<!-- Testing & Tools -->
-<br/><br/>
-<img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<br/>Jest
-
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<br/>Git
-
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<br/>GitHub
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/><br/>
+      <sub><b>ASP.NET Core</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50"/><br/>
+      <sub><b>Jest</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanAS0&show_icons=true&theme=react" alt="Brayan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanAS0&show_icons=true&theme=radical" alt="Brayan's GitHub stats"/>
 </p>
 
 ---
+
+<!---
+BrayanAS0/BrayanAS0 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
