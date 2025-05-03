@@ -18,6 +18,7 @@
 
 <div align="center">
 
+<!-- Backend & Languages -->
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <br/>C#
 
@@ -27,6 +28,7 @@
 <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <br/>SQL
 
+<!-- Frontend -->
 <br/><br/>
 <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <br/>React
@@ -46,6 +48,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <br/>CSS
 
+<!-- Testing & Tools -->
 <br/><br/>
 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <br/>Jest
